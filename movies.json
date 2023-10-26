@@ -1,0 +1,43 @@
+{
+    "movie1" : {
+       "title" : "Your Name.",
+       "director" : "Makoto Shinkai",
+       "genre" : "Animation/Drama/Comedy",
+       "link": "https://www.imdb.com/title/tt5311514/",
+       "id": 1
+    },
+    
+    "movie2" : {
+       "title" : "Suzume",
+       "director" : "Makoto Shinkai",
+       "genre" : "Animation/Drama/Comedy",
+       "link": "https://www.imdb.com/title/tt16428256/",
+       "id": 2
+    },
+    
+    "movie3" : {
+       "title" : "5 Centimeter Per Second",
+       "director" : "Makoto Shinkai",
+       "genre" : "Animation/Science-Fiction/Comedy",
+       "link": "https://www.imdb.com/title/tt16428256/",
+       "id": 3
+   
+    },
+
+    "movie4" : {
+      "title" : "The Lion King(1994)",
+      "director" : "Rob Minkoff, Roger Allers",
+      "genre" : "Animation/Comedy/Action",
+      "link": "https://www.imdb.com/title/tt0110357/",
+      "id": 4
+   },
+
+   "movie5" : {
+      "title" : "Who Framed Roger Rabbit",
+      "director" : "Robert Zemeckis",
+      "genre" : "Comedy/Fantasy",
+      "link": "https://www.imdb.com/title/tt0096438/",
+      "id": 5
+   }
+ }
+
